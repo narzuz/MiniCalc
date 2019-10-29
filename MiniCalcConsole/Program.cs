@@ -26,6 +26,7 @@ namespace MiniCalcConsole
                 Console.WriteLine("Enter 1st input");
                 int input_1 = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Enter 2nd input");
+                Console.WriteLine("REEEEEEEEEEEEEEEEEEEEEEEEEEE!");
                 int input_2 = Convert.ToInt32(Console.ReadLine());
                 int result = 0;
                 switch (action)
